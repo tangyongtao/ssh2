@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="tyt:war">
-    <output-path>$PROJECT_DIR$/tyt/target</output-path>
-    <root id="archive" name="tyt.war">
-      <element id="artifact" artifact-name="tyt:war exploded" />
-    </root>
-  </artifact>
-</component>
